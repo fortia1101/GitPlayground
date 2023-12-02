@@ -1,0 +1,15 @@
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/bin/Debug/net7.0/CalcPi
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/bin/Debug/net7.0/CalcPi.deps.json
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/bin/Debug/net7.0/CalcPi.runtimeconfig.json
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/bin/Debug/net7.0/CalcPi.dll
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/bin/Debug/net7.0/CalcPi.pdb
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/obj/Debug/net7.0/CalcPi.csproj.AssemblyReference.cache
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/obj/Debug/net7.0/CalcPi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/obj/Debug/net7.0/CalcPi.AssemblyInfoInputs.cache
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/obj/Debug/net7.0/CalcPi.AssemblyInfo.cs
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/obj/Debug/net7.0/CalcPi.csproj.CoreCompileInputs.cache
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/obj/Debug/net7.0/CalcPi.dll
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/obj/Debug/net7.0/refint/CalcPi.dll
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/obj/Debug/net7.0/CalcPi.pdb
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/obj/Debug/net7.0/CalcPi.genruntimeconfig.cache
+/Users/ritto/Documents/learn/GitPlayground/CalcPi/obj/Debug/net7.0/ref/CalcPi.dll
