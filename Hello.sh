@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 echo "Please enter your name"
-read YourName
+read yourName
 echo "Hello, ${YourName}!\nThis file is $0"
 
 if [ "$#" -ge 1 ] # greater (than or) equal
