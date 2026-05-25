@@ -1,2 +1,3 @@
 This is a txt file.
 The commit you reverted is overrided. This note is an evidence!
+過去の差分だけ無くしたい！
