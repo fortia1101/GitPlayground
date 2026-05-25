@@ -1,2 +1,3 @@
 This is a txt file.
 I want to revert two back commits from current commmit.
+The 3rd editing in this file.
